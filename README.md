@@ -1,12 +1,14 @@
 ### Hi there 👋
 
+IT-security student
+
 ### 📫 How to reach me
 - [Mail](mailto:alfred@derfla.net)
-- Discord: Affe#6565
+- Discord: AffeKri
 
 ### 🔭 I’m currently working on:
-- Cryptography labs
-- Minecraft plugin
+- Home labs
+- Incident response labs
 
 <!--
 **affekri/affekri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
