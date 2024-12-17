@@ -1,7 +1,5 @@
 # Hi there 👋
 
-Junior IT-Security Consultant
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 📫 How to reach me  
