@@ -11,7 +11,7 @@
 
 ## 🔭 I’m currently working on  
 
-- Home setup  
+- Java labs  
 - Minecraft plugin  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=affekri&show_icons=true&locale=en&theme=radical)
